@@ -93,7 +93,3 @@ Explore the interactive dashboard that visualizes all key findings:
 
 ---
 
-## How to Use This Repository  
-1. Clone this repository to your local machine:  
-   ```bash
-   git clone <repository-url>
